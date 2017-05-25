@@ -5,3 +5,4 @@ configserver:
 
 test:
   a: 1
+  b: 3
